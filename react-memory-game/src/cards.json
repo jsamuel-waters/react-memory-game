@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Chicken Licken",
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/f3/Chicken_licken_restaurant.jpg",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Jollibee",
+    "image":"https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Jollibee_2011_logo.svg/200px-Jollibee_2011_logo.svg.png",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Starbucks",
+    "image":"https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Starbucks_Corporation_Logo_2011.svg/237px-Starbucks_Corporation_Logo_2011.svg.png",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "McDonalds",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/273px-McDonald%27s_Golden_Arches.svg.png",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Little Caesars",
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/f9/Little_Caesars_logo.png",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Wendy's",
+    "image":"https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Wendy%27s_logo_2012.svg/347px-Wendy%27s_logo_2012.svg.png",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Cinnabon",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Cinabon_logo.svg/579px-Cinabon_logo.svg.png",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Burger King",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burger_King_Logo.svg/512px-Burger_King_Logo.svg.png",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Arby's",
+    "image":"https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Arby%27s_logo.svg/191px-Arby%27s_logo.svg.png",
+    "count": 0
+  }
+]

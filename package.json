@@ -1,0 +1,19 @@
+{
+  "name": "react-memory-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsamuel-waters/react-memory-game.git"
+  },
+  "author": "JSamuel Waters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsamuel-waters/react-memory-game/issues"
+  },
+  "homepage": "https://github.com/jsamuel-waters/react-memory-game#readme"
+}
